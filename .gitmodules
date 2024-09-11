@@ -1,4 +1,13 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/luciorq/luciorq.r-universe.dev
 	branch = HEAD
+[submodule "condathis"]
+	path = condathis
+	url = https://github.com/luciorq/condathis
+[submodule "dockerthis"]
+	path = dockerthis
+	url = https://github.com/luciorq/dockerthis
+[submodule "isoformic"]
+	path = isoformic
+	url = https://github.com/luciorq/isoformic
