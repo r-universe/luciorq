@@ -1,8 +1,0 @@
-[
-  {
-    "package": "dockerthis",
-    "url": "https://github.com/luciorq/dockerthis",
-    "via": ["condathis"],
-    "from": "condathis"
-  }
-]
