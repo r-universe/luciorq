@@ -5,9 +5,6 @@
 [submodule "condathis"]
 	path = condathis
 	url = https://github.com/luciorq/condathis
-[submodule "dockerthis"]
-	path = dockerthis
-	url = https://github.com/luciorq/dockerthis
 [submodule "isoformic"]
 	path = isoformic
 	url = https://github.com/luciorq/isoformic
