@@ -8,3 +8,6 @@
 [submodule "isoformic"]
 	path = isoformic
 	url = https://github.com/luciorq/isoformic
+[submodule "rattlerthis"]
+	path = rattlerthis
+	url = https://github.com/luciorq/rattlerthis
